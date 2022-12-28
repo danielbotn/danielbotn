@@ -5,7 +5,7 @@ Mobile. Web. All Frontend and Backend.
 --------------------------------------
 
 * 🌍  I'm based in Mosfellsbær city Iceland
-* ✉️  You can contact me at [danielfrs87@gmail.com](mailto:danielfrs87@gmail.com)
+* ✉️  You can contact me at [Here](mailto:danielfrs87@gmail.com)
 * 🧠  I'm learning Sveltekit, Tensorflow
 
 ### Skills
